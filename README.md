@@ -11,9 +11,9 @@ This Sales Analysis Project uses MS Excel to clean, pre-process, and analyze sal
 
 ## Dashboard Highlights:
 1. **Sales by Category - Funnel Chart**
+   - **Description:** Visualizes the distribution of sales across product categories, narrowing from highest to lowest sales volume.
+   - **Insight:** Identify top-performing categories and focus efforts on improving those that lag behind.
 
-   **Description:** Visualizes the distribution of sales across product categories, narrowing from highest to lowest sales volume.
-   **Insight:** Identify top-performing categories and focus efforts on improving those that lag behind.
 3. **Profit Gained Over Years - Line Chart**
-   **Description:** Shows the trend of profit over the years, highlighting growth and decline periods.
-   **Insight:** Track long-term profitability and recognize periods of growth or decline for better strategic decisions.
+   - **Description:** Shows the trend of profit over the years, highlighting growth and decline periods.
+   - **Insight:** Track long-term profitability and recognize periods of growth or decline for better strategic decisions.

@@ -45,7 +45,7 @@ This Sales Analysis Project uses MS Excel to clean, pre-process, and analyze sal
 To explore the sales dashboard and gain insights into sales performance:
 1. **Dashboard Screenshot:** View the provided screenshot to get an overview of the dynamic sales dashboard.
 2. **Open the Dashboard Excel file:** Open the provided Excel file to explore the dynamic sales dashboard, interact with the data, and gain insights from the cleaned and pre-processed sales metrics.
-3. **Dashboard Excel file:**
+3. **Dashboard Excel file:** <a href="https://github.com/sayaniketsaini24/Sales-Dashboard-Data-using-Excel/blob/main/Sales%20Dashboard%20Data%20using%20Excel.xlsx">Clink Here</a>
 
 ## Conclusion:
 This sales dashboard project showcases my proficiency in **data analysis** and **visualization** using **MS Excel**. It demonstrates my ability to clean, pre-process, analyze, and effectively visualize data, delivering **valuable insights** into business performance to support strategic decision-making.

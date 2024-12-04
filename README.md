@@ -9,6 +9,10 @@ Welcome to my **Sales Dashboard Project!** This **data analytics** project aims 
 ## Project Description:
 This Sales Analysis Project uses MS Excel to clean, pre-process, and analyze sales data. The goal is to create a dynamic dashboard that visualizes key performance indicators (KPIs) like sales trends, category performance, regional sales, top products, and profit margins. These insights help businesses understand their performance, spot trends, and make strategic decisions for growth.
 
+## Screenshot:
+![Sales Dashboard Data using Excel png](https://github.com/user-attachments/assets/7f69b4c2-3fee-47e4-af85-b1e4560cad7a)
+
+
 ## Dashboard Highlights:
 1. **Sales by Category - Funnel Chart**
    - **Description:** Visualizes the distribution of sales across product categories, narrowing from highest to lowest sales volume.
@@ -29,7 +33,19 @@ This Sales Analysis Project uses MS Excel to clean, pre-process, and analyze sal
 5. **Top 5 Customers Profit - Pie Chart**
    - **Description:** Highlights the top 5 customers based on profit contribution.
    - **Insight:** Identify and nurture key customers to enhance profitability and loyalty.
-  
+
 6. **Monthly Sales - Area Chart**
    - **Description:** Illustrates monthly sales trends, with the filled area showing the volume of sales.
    - **Insight:** Spot seasonal trends and peak periods to optimize inventory, marketing, and forecasting strategies.
+
+## Tools Used:
+- Microsoft Excel: For data cleaning, pre-processing, analysis, and visualization.
+
+## Usage:
+To explore the sales dashboard and gain insights into sales performance:
+1. **Dashboard Screenshot:** View the provided screenshot to get an overview of the dynamic sales dashboard.
+2. **Open the Dashboard Excel file:** Open the provided Excel file to explore the dynamic sales dashboard, interact with the data, and gain insights from the cleaned and pre-processed sales metrics.
+3. **Dashboard Excel file:**
+
+## Conclusion:
+This sales dashboard project showcases my proficiency in **data analysis** and **visualization** using **MS Excel**. It demonstrates my ability to clean, pre-process, analyze, and effectively visualize data, delivering **valuable insights** into business performance to support strategic decision-making.

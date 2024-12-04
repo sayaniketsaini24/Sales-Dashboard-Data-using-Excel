@@ -13,8 +13,23 @@ This Sales Analysis Project uses MS Excel to clean, pre-process, and analyze sal
 1. **Sales by Category - Funnel Chart**
    - **Description:** Visualizes the distribution of sales across product categories, narrowing from highest to lowest sales volume.
    - **Insight:** Identify top-performing categories and focus efforts on improving those that lag behind.
-
-
-3. **Profit Gained Over Years - Line Chart**
+  
+2. **Profit Gained Over Years - Line Chart**
    - **Description:** Shows the trend of profit over the years, highlighting growth and decline periods.
    - **Insight:** Track long-term profitability and recognize periods of growth or decline for better strategic decisions.
+
+3. **Sales by State - Map Chart**
+   - **Description:** Geographical representation of sales performance by state.
+   - **Insight:** Compare regional sales, identify top-performing states, and spot regions that need attention.
+  
+4. **Customer Count - Bar Chart**
+   - **Description:** Displays the number of customers served, broken down by category, region, or time period.
+   - **Insight:** Analyze customer distribution for market segmentation and targeted strategies.
+
+5. **Top 5 Customers Profit - Pie Chart**
+   - **Description:** Highlights the top 5 customers based on profit contribution.
+   - **Insight:** Identify and nurture key customers to enhance profitability and loyalty.
+  
+6. **Monthly Sales - Area Chart**
+   - **Description:** Illustrates monthly sales trends, with the filled area showing the volume of sales.
+   - **Insight:** Spot seasonal trends and peak periods to optimize inventory, marketing, and forecasting strategies.

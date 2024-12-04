@@ -8,3 +8,11 @@ Welcome to my **Sales Dashboard Project!** This **data analytics** project aims 
 
 ## Project Description:
 This Sales Analysis Project uses MS Excel to clean, pre-process, and analyze sales data. The goal is to create a dynamic dashboard that visualizes key performance indicators (KPIs) like sales trends, category performance, regional sales, top products, and profit margins. These insights help businesses understand their performance, spot trends, and make strategic decisions for growth.
+
+## Dashboard Highlights:
+1. **Sales by Category - Funnel Chart**
+   **Description:** Visualizes the distribution of sales across product categories, narrowing from highest to lowest sales volume.
+   **Insight:** Identify top-performing categories and focus efforts on improving those that lag behind.
+2. **Profit Gained Over Years - Line Chart**
+   **Description:** Shows the trend of profit over the years, highlighting growth and decline periods.
+   **Insight:** Track long-term profitability and recognize periods of growth or decline for better strategic decisions.
